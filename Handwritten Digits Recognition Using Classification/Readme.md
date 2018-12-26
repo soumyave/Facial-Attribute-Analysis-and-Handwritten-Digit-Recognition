@@ -1,0 +1,1 @@
+The purpose of the project was to implement and evaluate classification algorithms on MNIST dataset and USPS dataset to recognize a 28 × 28 grayscale handwritten digit image.

@@ -1,0 +1,1 @@
+The goal of the project was to implement Convolutional Neural Network and train the system on celebrity dataset A and make it recognize whether the person in a portrait image is wearing glasses
